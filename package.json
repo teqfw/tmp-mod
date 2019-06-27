@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/teqfw/tmp-mod/issues"
   },
-  "homepage": "https://github.com/teqfw/tmp-mod#readme"
+  "homepage": "https://github.com/teqfw/tmp-mod#readme",
+  "teqfw": {}
 }
